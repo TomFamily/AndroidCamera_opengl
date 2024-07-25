@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --sysroot=/Users/yk/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dsound_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -fno-limit-debug-info  -fPIC   -o CMakeFiles/sound.dir/src/main/cpp/sound.cpp.o -c /Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/src/main/cpp/sound.cpp",
+  "file": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/src/main/cpp/sound.cpp"
+}
+]

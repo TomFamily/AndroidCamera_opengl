@@ -25,7 +25,7 @@ public class VoiceUtils {
      * @param path 音频文件路径
      * @param type 音频文件类型
      */
-    public native static void fix(String path, int type);
+//    public native static void fix(String path, int type);
 
 
     static {

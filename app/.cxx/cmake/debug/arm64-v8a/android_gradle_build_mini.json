@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/compiler_id.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/platforms.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sound-Debug-arm64-v8a": {
+      "artifactName": "sound",
+      "buildCommand": "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" sound",
+      "abi": "arm64-v8a",
+      "output": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates/cmake/debug/obj/arm64-v8a/libsound.so"
+    }
+  }
+}

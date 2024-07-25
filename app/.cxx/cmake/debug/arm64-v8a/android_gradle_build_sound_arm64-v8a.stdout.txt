@@ -1,0 +1,1 @@
+ninja: Entering directory `/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a'

@@ -60,7 +60,7 @@ public class ChangeVoiceActivity extends RVBaseActivity {
     class PlayerThread implements Runnable {
         @Override
         public void run() {
-            VoiceUtils.fix(path, type);
+//            VoiceUtils.fix(path, type);
         }
     }
 

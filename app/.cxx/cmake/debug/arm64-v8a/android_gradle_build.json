@@ -1,0 +1,44 @@
+{
+  "stringTable": {
+    "0": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android23 --sysroot=/Users/yk/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsound_EXPORTS -I../../../../src/main/cpp/inc -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/compiler_id.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/platforms.cmake",
+    "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sound-Debug-arm64-v8a": {
+      "buildCommand": "/Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a\" sound",
+      "buildType": "debug",
+      "toolchain": "3722840990",
+      "abi": "arm64-v8a",
+      "artifactName": "sound",
+      "files": [
+        {
+          "src": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/src/main/cpp/sound.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates/cmake/debug/obj/arm64-v8a/libsound.so"
+    }
+  },
+  "toolchains": {
+    "3722840990": {
+      "cppCompilerExecutable": "/Users/yk/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

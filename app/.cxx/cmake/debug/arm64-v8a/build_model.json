@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl",
+      "sdkFolder": "/Users/yk/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app",
+      "makeFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/.cxx",
+      "cxxFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx",
+      "ndkFolder": "/Users/yk/Library/Android/sdk/ndk/25.2.9519653",
+      "ndkVersion": "25.2.9519653",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      " "
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}

@@ -1,0 +1,7 @@
+Executable : /Users/yk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/yk/code/Android/opengl_es/AndroidCamera_opengl/app/.cxx/cmake/debug/armeabi-v7a
+sound
+jvmArgs : 
+

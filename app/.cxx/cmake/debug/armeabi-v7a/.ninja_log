@@ -1,0 +1,10 @@
+# ninja log v5
+0	25	0	clean	ca0ffeae43432c69
+1	450	1721840229	CMakeFiles/sound.dir/src/main/cpp/sound.cpp.o	330f37dccdc081e5
+450	665	1721840229	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libsound.so	89fc770d725a82d1
+0	22	0	clean	ca0ffeae43432c69
+0	471	1721918325	CMakeFiles/sound.dir/src/main/cpp/sound.cpp.o	330f37dccdc081e5
+471	697	1721918325	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libsound.so	89fc770d725a82d1
+0	42	0	clean	ca0ffeae43432c69
+1	550	1721920051	CMakeFiles/sound.dir/src/main/cpp/sound.cpp.o	330f37dccdc081e5
+550	746	1721920051	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libsound.so	89fc770d725a82d1
